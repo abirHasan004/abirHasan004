@@ -37,7 +37,7 @@ I'm a **freelance full-stack web developer** passionate about turning ideas into
 
 ## 🚀 Featured Projects
 
-- [**zoxxo**](https://github.com/abirHasan004/zoxxo)  
+- [**zoxxo**](https://zoxxo.io/)  
   A modern file sharing website built with serverless and scalable architecture.
 
 - [**nextdeal**](https://github.com/abirHasan004/nextdeal)  
